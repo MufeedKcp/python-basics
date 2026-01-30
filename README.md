@@ -1,7 +1,7 @@
 # Python Basics Projects Repository
 
 Welcome to the **Python Basics Projects** repository!  
-This repository contains a collection of beginner-friendly Python projects to help you practice and improve your programming skills. Each project focuses on fundamental Python concepts such as file handling, loops, conditionals, functions, and basic algorithms.
+This repository contains a collection of beginner-friendly Python projects that help me to practice and improve my programming skills. Each project focuses on fundamental Python concepts such as file handling, loops, conditionals, functions, and basic algorithms.
 
 ---
 
