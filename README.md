@@ -65,7 +65,7 @@ By completing these projects, I can confidently:
 - **Process and analyze data** with precision, including CSV manipulation.  
 - **Think like a programmer**, breaking complex problems into simple, efficient solutions.  
 - **Apply foundational Python knowledge** as a solid stepping stone toward intermediate and advanced projects.  
-```
+
 > These projects reflect **hands-on mastery** of Python basics, demonstrating readiness to tackle more complex programming challenges and real-world applications.
-```
+
 ---
