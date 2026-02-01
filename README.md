@@ -15,7 +15,6 @@ This repository contains a collection of beginner-friendly Python projects that 
 | `calculator.py`                 | Basic calculator for arithmetic operations.                                 |
 | `compountInterestCalculator.py` | Calculate compound interest based on principal, rate, and time.             |
 | `concole Shopping Cart.py`      | Simulate a console-based shopping cart system.                              |
-| `file_orgnizer.py`              | Organize files in folders based on file type.                               |
 | `number guessing game.py`       | Guess the number game where the computer chooses a random number.           |
 | `quiz game.py`                  | Simple quiz game with multiple-choice questions.                            |
 | `shopping cart.py`              | Another version of a console-based shopping cart system.                    |
