@@ -20,7 +20,6 @@ This repository contains a collection of beginner-friendly Python projects that 
 | `shopping cart.py`              | Another version of a console-based shopping cart system.                    |
 | `temperatureConvertor.py`       | Convert temperature between Celsius, Fahrenheit, and Kelvin.                |
 | `weightconverter.py`            | Convert weight between kilograms, grams, pounds, and ounces.                |
-| `working with csv.py`           | Read, write, and manipulate CSV files using Python.                         |
 
 ---
 
